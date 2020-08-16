@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097961617606",
+    "firebase_url": "https://fir-ml-demo-6235b.firebaseio.com",
+    "project_id": "fir-ml-demo-6235b",
+    "storage_bucket": "fir-ml-demo-6235b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097961617606:android:0ecf228c558246905bffc7",
+        "android_client_info": {
+          "package_name": "com.roshinkm.flutter_ml_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097961617606-4pggd07mbfoo45ap54398uohmgj87bcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn03FDgTbTEU3cQSxda-ylN6pSBuc21M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097961617606-4pggd07mbfoo45ap54398uohmgj87bcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
